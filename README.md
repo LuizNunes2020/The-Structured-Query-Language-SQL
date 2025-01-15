@@ -1,3 +1,3 @@
 # The-Structured-Query-Language-SQL
 
-This repository includes queries created for the course The Structured Query Language (SQL) (available at: https://www.coursera.org/learn/the-structured-query-language-sql/).The "Labs" folder provides the solutions to the laboratory exercises. All queries are based on the Northwind database (https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/downloading-sample-databases). 
+ste repositório contém consultas criadas para o curso The Structured Query Language (SQL) (disponível em: https://www.coursera.org/learn/the-structured-query-language-sql/). A pasta "Labs" inclui as soluções dos exercícios de laboratório. Todas as consultas são baseadas no banco de dados Northwind (https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/downloading-sample-databases).
